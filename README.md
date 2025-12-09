@@ -60,6 +60,4 @@
     <li><b>Overall Accuracy:</b> 77.5% mAP@0.5</li>
     <li><b>Best Class (Scratches):</b> 97.4%</li>
 </ul>
-    <br>
-    <b>📄 License:</b> This project is licensed under the MIT License.
 </p>
