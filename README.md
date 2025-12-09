@@ -1,7 +1,7 @@
 <h1>Metal Surface Defect Analyzer (XAI)</h1>
 
 <p>
-    <b>An Automated Optical Inspection (AOI) system that couples high-performance metal surface defect detection with Explainable AI (XAI) to ensure trust and transparency.</b>
+    An Automated Optical Inspection (AOI) system that couples high-performance metal surface defect detection with Explainable AI (XAI) to ensure trust and transparency.
 </p>
 
 <p>
